@@ -1,0 +1,28 @@
+cluster,name_list
+beta_blockers,"timolol, carteolol, nadolol, oxprenolol, penbutolol, pindolol, propranolol, sotalol, Atenolol, acebutolol, betaxolol, bisoprolol, celiprolol, nebivolol, esmolol, metoprolol, Carvedilol, labetalol"
+arb,"enazepril, captopril, lisinopril, moexipril, quinapril, ramipril, enalapril, trandolapril, zofenopril, fosinopril, perindopril, Azilsartan, candesartan, Olmesartan, losartan, valsartan, telmisartan, eprosartan, irbesartan, sacubitril, aliskiren"
+ccb,"lercanidipine, amlodipine, clevidipine, levamlodipine, isradipine, felodipine, nicardipine, nifedipine, nimodipine, nisoldipine, verapamil, diltiazem, bepridil, perhexiline"
+diuretics,"trichlormethiazide, bendroflumethiazide, chlorothiazide, hydrochlorothiazide, hydroflumethiazide, methyclothiazide, polythiazide, potassium, xipamide, chlorthalidone, clopamide, indapamide, metolazone, mersalyl, bumetanide, torsemide, furosemide, potassium, ethacrynate, finerenone, eplerenone, spironolactone, triamterene, amiloride, conivaptan, tolvaptan"
+lipid,"rosuvastatin, simvastatin, fluvastatin, pravastatin, cerivastatin, lovastatin, atorvastatin, pitavastatin, bezafibrate, ciprofibrate, gemfibrozil, fenofibrate, colesevelam, cholestyramine resin, colestipol, lomitapide, mipomersen, alirocumab, evolocumab, bempedoic acid, evinacumab, inclisiran, ezetimibe, policosanol"
+corticosteroids,"beclomethasone, betamethasone, budesonide, hydrocortisone, prednisolone, prednisone"
+NSAIDs,"phenylbutazone, sulindac, tolmetin, aceclofenac, acemetacin, bufexamac, etodolac, diclofenac, ketorolac, indomethacin, lornoxicam, tenoxicam, meloxicam, piroxicam, suprofen, dexketoprofen, oxaprozin, fenoprofen, flurbiprofen, ibuprofen, ketoprofen, naproxen, mefenamate, celecoxib, rofecoxib, valdecoxib, etoricoxib, benzydamine, chondroitin sulfates, nabumetone, glucosamine, nimesulide"
+antidepressants,"trimipramine, clomipramine, desipramine, dothiepin, doxepin, imipramine, maprotiline, amitriptyline, amoxapine, nortriptyline, protriptyline, citalopram, escitalopram, paroxetine, sertraline, fluvoxamine, fluoxetine, tranylcypromine, isocarboxazid, phenelzine, trazodone, vilazodone, tryptophan, viloxazine, evomilnacipran, vortioxetine, mirtazapine, esketamine, brexanolone, ST JOHNS WORT, nefazodone, venlafaxine, bupropion, milnacipran, mianserin, duloxetine, desvenlafaxine, 5-hydroxytryptophan"
+antipsychotics,"accepromazine, chlorpromazine, methotrimeprazine, promazine, trifluoperazine, fluphenazine, perphenazine, prochlorperazine, thioridazine, mesoridazine, pipothiazine, benperidol, lumateperone, droperidol, haloperidol, lurasidone, ziprasidone, molindone, thiothixene, flupenthixol, pimozide, samidorphan, clozapine, quetiapine, olanzapine, loxapine, asenapine, sulpiride, amisulpride, lithium, brexpiprazole, cariprazine, pimavanserin, risperidone, zotepine, paliperidone, iloperidone, aripiprazole"
+antidementia,"donepezil, rivastigmine, galantamine, memantine, aducanumab, lecanemab, donanemab"
+Sulfonylureas,"Chlorpropamide, tolbutamide, tolazamide, glipizide, glimepiride, acetohexamide"
+Thiazolidinediones,"Pioglitazone, Rosiglitazone"
+Meglitinides,"Repaglinide,  Nateglinide"
+a_glucosidase_inhibitors,"Miglitol, Acarbose"
+Insulin,"insulin glulisine, insulin lispro, insulin aspart, insulin regular, insulin glargine, insulin detemir, insulin degludec, insulin isophane"
+Metformin,Metformin
+Thiazolidinediones,"pioglitazone, rosiglitazone"
+anticoagulants,"Warfarin, apixaban, betrixaban, dabigatran etexilate, edoxaban, rivaroxaban"
+antiplatelet agents,"aspirin, clopidogrel, ticagrelor, ticlopidine, prasugrel"
+Proton pump inhibitors,"dexlansoprazole, esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole"
+Hormone replacement therapy,"conjugated estrogens, esterified estrogens, estradiol, estropipate, diethylstilbestrol, quinestrol, drospirenone-estradiol, NORETHINDRONE-ETH ESTRADIOL, ESTRADIOL-NORETHINDRONE, estradiol-norgestimate, conjugated estrogens-medroxyprogesterone"
+Opioids,"Codeine, Fentanyl, Hydromorphone, Meperidine, Methadone, Morphine, Oxycodone, Tramadol, Hydrocodone, Buprenorphine"
+MRA,"Spironolactone, eplerenone"
+digoxin,digoxin
+other_AOM,"Orlistat, Phentermine, Topiramate, Bupropion, Naltrexone, Lorcaserin"
+ARNIs,SACUBITRIL-VALSARTAN
+other_HF_DRUG,"ISOSORB DINITRATE-HYDRALAZINE,  ivabradine, vericiguat, omecamtiv"
